@@ -1,6 +1,6 @@
 # Backpack_Form_EventListener
 /**
- * Challenge: Create an event listener
+ * Create an event listener
  * - Find the two elements with the .backpack__strap class.
  * - Create a function to output the strap length form.
  * - Iterate through each item with the .backpack__strap class.
